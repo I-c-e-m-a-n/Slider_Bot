@@ -2,7 +2,7 @@
 An AI-powered desktop assistant built with Python. Features include email reading and replies, weather updates, news summarization, text-to-speech, and automated daily reports; all in a dynamic visual interface.
 
 
-##✨ Features
+## ✨ Features
 
 📧 Email Client
 - Fetches unread Gmail messages.
@@ -40,7 +40,7 @@ An AI-powered desktop assistant built with Python. Features include email readin
 
 
 
-##🚀Roadmap
+## 🚀Roadmap
 - ⏳ Stock integration (real-time data, portfolio tracking).
 - ⏳ Voice command input (speech-to-text).
 - ⏳ More APIs for entertainment/education.
