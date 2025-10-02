@@ -1,5 +1,6 @@
 # Slider Bot
 An AI-powered desktop assistant built with Python. Features include email reading and replies, weather updates, news summarization, text-to-speech, and automated daily reports; all in a dynamic visual interface.
+📹 https://youtu.be/wq5_v14PRck
 
 
 ## ✨ Features
