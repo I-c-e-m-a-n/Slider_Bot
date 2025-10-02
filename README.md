@@ -37,6 +37,9 @@ An AI-powered desktop assistant built with Python. Features include email readin
 - Updates dynamically every few seconds while tasks run in background.
 
 
+
+
+
 ##🚀Roadmap
 - ⏳ Stock integration (real-time data, portfolio tracking).
 - ⏳ Voice command input (speech-to-text).
